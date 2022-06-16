@@ -1,0 +1,22 @@
+.ui.fluid.card{
+    margin-top: 50px;
+    width: 40%;
+    margin-left: 500px;
+    
+}
+.lable{
+     margin-top: 30px;
+     margin-left: 30px;
+     text-align: left;
+}
+.info{
+    margin-top: -18px;
+    margin-left: 200px;
+}
+input{
+    border: none;
+}
+.ui.bottom.attached.button
+{
+    background-color: lightcyan;
+}
